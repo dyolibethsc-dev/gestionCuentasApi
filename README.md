@@ -10,8 +10,7 @@ Instrucciones para la ejecución del proyecto:
 Instrucciones para aplicar las pruebas unitarias:
 1. Ejecutar F5 para iniciar el proyecto
 2. Se abrirá en el navegador el siguiente enlace: https://localhost:7071/swagger/index.html
-3. Emplear la siguiente tabla para la ejecución de pruebas de los diferentes endpoints
-4. Abrir el documento con nombre Prueba técnica - Desarrollador Senior - Diana Yolibeth Sánchez Canales (adjunto en el correo).
+3. Abrir el documento con nombre Prueba técnica - Desarrollador Senior - Diana Yolibeth Sánchez Canales (adjunto en el correo).
 
 ** Este documento cuenta con los insumos necesarios para ejecutar cada uno de los métodos definidos en el API, así como las evidencias de todas las pruebas unitarias aplicadas. **
 
